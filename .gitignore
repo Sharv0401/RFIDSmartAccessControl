@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+.env
+.lgd-*
+*_backup.py
+*_test.py
